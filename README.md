@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-I'm a Front End Developer with 2 years of experience in using tools and technologies such as: HTML, CSS, JavaScript, and React to build products that make a difference. I'm very passionate about learning and leveraging new technologies. I also love writing about the things I learn, you can view some of my articles [here](blog.logrocket.com/author/samailabala/).
+I'm a Software Engineer and Technical Writer with an aptitude for building web and mobile experiences. I specialize in building the frontend of consumer-facing products using React and React Native. I am also very passionate about learning new technologies and writing about the things I've learned and encountered, some of my articles have been featured on blogs like Logrocket. 
 
 To get in contact with me you can reach me on [twitter](https://twitter.com/samabalap) or shoot me an email [here](mailto:samailabalap@gmail.com).
